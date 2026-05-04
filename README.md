@@ -1,4 +1,4 @@
-# 🌾 Rural Village Empowerment System
+# Rural Village Empowerment System
 
 A comprehensive digital platform designed to empower rural communities in Bangladesh by integrating agriculture, employment, transportation, skill development, and AI-based services into a single ecosystem.
 
